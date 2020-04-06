@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: math-gout.github.io
+Token: 8aa6141fffcf1cae3fe6e3edad3f15b7c731df78162aa638bcff8d8744eeca1f
